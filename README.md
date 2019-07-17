@@ -12,3 +12,6 @@ Home Automation with Nodemcu and Alexa
 * DC Socket
 * Terminal Connector
 * PCB Header 
+
+
+* change ssid and password at alexa-esp8266.ino with your wifi credentials.
