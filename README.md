@@ -14,4 +14,4 @@ Home Automation with Nodemcu and Alexa
 * PCB Header 
 
 
-* change ssid and password at alexa-esp8266.ino with your wifi credentials.
+# change ssid and password at alexa-esp8266.ino with your wifi credentials.
